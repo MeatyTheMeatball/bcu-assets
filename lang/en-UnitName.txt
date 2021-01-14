@@ -546,10 +546,10 @@
 545	Phantom Cat	Miasma Cat	
 546	Papaluga	Papalan Pasalan	
 547			
-548			
-549			
-550			
-551			
+548	Sachiel	Sachiel & Cat	
+549	Ramiel	Ramiel & Cat	
+550	Zeruel	Zeruel & Cat	
+551	Bardiel	Bardiel & Cat	
 552			
 553	Bakery Cat	Boomerang Cat	
 554	Master Uril	Mystic Uril	
@@ -579,7 +579,7 @@
 578	Vega Cat	Vega Cat CC	
 579	Sagat Cat	Sagat Cat CC	
 580	M. Bison Cat	M. Bison Cat CC	
-581			
+581	Rock Cat	Geode Cat	
 582	Hatsune Miku: MM2020 Osaka	Hatsune Miku CC: MM2020 Osaka	
 583	Hatsune Miku: MM2020 Tokyo	Hatsune Miku CC: MM2020 Tokyo	
 584	Keiji Claus	Maeda Christmas	
